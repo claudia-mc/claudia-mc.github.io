@@ -3,9 +3,6 @@
 <img src="images/thumb/thumb.McMillan_ColorPencil1.JPG"
 alt="Drawing" style="width: 200px;"/>
 
-<img src="images/thumb/thumb.McMillan_ColorPencil2.JPG"
-alt="Drawing" style="width: 200px;"/>
-
 <img src="images/thumb/thumb.McMillan_ConceptArt1.png"
 alt="Drawing" style="width: 200px;"/>
 
