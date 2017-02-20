@@ -1,6 +1,7 @@
 # Claudia McMillan
 
-![alt text][ColorPencil1]{:width="100%"}
+<img src="images/McMillan_ColorPencil1.JPG" alt="Drawing" style="width: 100%;"/>
+
 ![alt text][ConceptArt1]
 ![alt text][ConceptArt2]
 ![alt text][ConceptArt3]
